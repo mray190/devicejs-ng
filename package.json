@@ -28,7 +28,7 @@
     "npm": "3.3.0",
     "optimist": "0.6.1",
     "read": "1.0.7",
-    "relay-core": "git+ssh://git@github.com:armPelionEdge/relay-core.git",
+    "relay-core": "git+ssh://git@github.com:mray190/relay-core.git",
     "request": "2.60.0",
     "rimraf": "2.3.3",
     "rsvp": "~3.0.0",
